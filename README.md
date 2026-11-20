@@ -1,4 +1,18 @@
-# Biblioteca EFIP I — Licenciatura en Informática (Siglo 21)
+<div align="center">
+
+# Biblioteca EFIP I
+
+### Juan Martín Canguillén
+
+**Licenciatura en Informática · Universidad Siglo 21**
+
+<sub>Material de estudio para el Examen Final Integrador Presencial</sub>
+
+<img src="assets/watermark.svg" alt="Juan Martín Canguillén" width="100%">
+
+</div>
+
+---
 
 Material de estudio para el **Examen Final Integrador Presencial (EFIP I)** de la Licenciatura en Informática de la Universidad Siglo 21.
 
@@ -46,3 +60,13 @@ pdf/                 Los mismos, en PDF
 - Los temas fuera del programa (transacciones, OCL/GoF) quedan en anexos marcados como opcionales.
 
 > Este repositorio contiene material de estudio propio. No incluye los PDF oficiales de la universidad ni bibliografía de terceros: solo referencias y resúmenes con fines educativos.
+
+---
+
+<div align="center">
+
+**Juan Martín Canguillén** · © 2026
+
+<sub>Documento de estudio personal. Prohibida su reproducción total o parcial sin autorización.</sub>
+
+</div>
